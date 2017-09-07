@@ -1,5 +1,4 @@
-#ITP 125 Final Programming Project
-#Written by: Isabella Benavente
+#Author: Izzy Benavente
 
 import platform #for determining OS
 import subprocess #for using commands
